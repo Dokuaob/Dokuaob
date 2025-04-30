@@ -1,7 +1,64 @@
-<h1>Hi, I'm Nana Dokua! </h1>
+<h1 align="center">👩🏾‍💻 Hi there, I’m Nana Dokua Obuobi</h1>
+<p align="center">🌍 Ghana | 🎯 Front-End Web Development Learner @ ALX | 🚀 Future Software Engineer
+</p>
+---
+
+### 💡 About Me
+
+I'm currently learning through the <strong>ALX Front-End Web Development Program</strong>, building a solid foundation in HTML, CSS, JavaScript, and React.
+
+I made the decision to pursue software engineering at the age of 32, fueled by my passion for **problem-solving, creativity, and continuous learning**. My background in Human Resources, Customer Service, and Administration has equipped me with strong communication, collaboration, and time management skills — all of which I now apply in tech.
+
+---
+### 🎯 What Inspires Me
+
+I'm inspired by:
+- 🌍 The opportunity to build real-world solutions for local and global communities
+- 💻 The creative freedom in designing user-friendly, inclusive websites
+- 👩🏾‍🔬 The powerful stories of career changers thriving in tech
+- 🤝 Collaboration and peer learning
+
+---
+
+### 🎓 What I’m Learning
+Here’s what I’m focused on in my current roadmap:
+- ✅ HTML5, CSS3, Responsive Design
+- ✅ JavaScript (ES6+), DOM Manipulation, APIs
+- ✅ Git & GitHub version control
+- 🔜 React, Component-based development
+- 🔜 Deployment (Netlify, GitHub Pages)
+
+---
+
+### 🛠️ Projects I Want to Build
+
+I aim to become a full-fledged software engineer. To get there, I’d love to work on:
+- 🎯 HR dashboards and tools that solve workplace pain points
+- 🌟 Interactive web applications (task trackers, personal productivity tools)
+- 📚 Learning platforms for underserved communities
+- 🧩 Real-world Frontend Mentor and open-source projects
+
+---
+
+### 🌱 Let's Connect
+
+I’m always open to collaborations, mentoring, and learning from others. Feel free to connect with me on:
+- 💼 [LinkedIn](https://www.linkedin.com/in/nana-dokua-obuobi/)
+- ✉️ Email: ndobuobi@gmail.com 
+- 🌍 Portfolio (Coming Soon)
+
+---
+### ✨ Stats & GitHub Highlights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dokuaob&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dokuaob&theme=radical" alt="GitHub Streak"/>
+</p>
+
+---
 
 <h2>👨‍💻 Software Development Projects:</h2>
-
 - <b>Software education app for both students and teachers in rural Ghana</b>
   - [EMANPE Edu App Presentation PDF](https://drive.google.com/file/d/1pfplPwcVh6IaIQf3CnlD-nCxsO8oc-JI/view?usp=sharing)
 
